@@ -1,6 +1,6 @@
 # Chicken_Disease_Classification
 
-## Workflows
+## Workflows(Modular Coding)
 
 1. Update config.yaml
 2. Update secrets.yaml[Optional]
